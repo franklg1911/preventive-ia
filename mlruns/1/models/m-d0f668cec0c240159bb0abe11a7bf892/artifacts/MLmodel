@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Preventive/preventive-ia/mlruns/1/models/m-d0f668cec0c240159bb0abe11a7bf892/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.11.5
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.18.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.10.1
+model_id: m-d0f668cec0c240159bb0abe11a7bf892
+model_size_bytes: 923308
+model_uuid: m-d0f668cec0c240159bb0abe11a7bf892
+prompts: null
+run_id: 6489c4326eaf46f08186293e8b283fe0
+utc_time_created: '2026-04-01 04:05:01.662336'

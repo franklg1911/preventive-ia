@@ -1,0 +1,18 @@
+{
+  "nombre": "XGBoost_Optimizado",
+  "tipo": "xgb",
+  "mae": 7.3368,
+  "rmse": 15.6763,
+  "r2": 0.1203,
+  "features": [
+    "mes",
+    "dia",
+    "dia_semana",
+    "trimestre",
+    "precio_unitario",
+    "semana_anio",
+    "lag_cantidad",
+    "desc_encoded",
+    "cat_encoded"
+  ]
+}
